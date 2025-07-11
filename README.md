@@ -4,9 +4,11 @@ WEBSITES
 
 https://therapi.io
 
+https://grok.secretaitest.com
+
 https://mielo.onrender.com
 
-https://techdynastyservices.com/
+https://techdynastyservices.com
 
 https://techpandang.com/
 
